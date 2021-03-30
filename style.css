@@ -1,0 +1,32 @@
+h1 {
+  color: rgb(167, 127, 161);
+  font-family: sans-serif;
+  text-align: center;
+  font-size: xx-large;
+}
+body {
+  background-color: rgb(216, 202, 184);
+}
+h2 {
+  color: darkgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: medium;
+}
+img {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  display: table;
+  margin: auto;
+}
+button {
+  cursor: pointer;
+  border-color: rgb(181, 162, 190);
+  color: rgb(235, 191, 198);
+  border-radius: 2cm;
+  font-family: monospace;
+  display: flex;
+  display: table;
+  margin: auto;
+}
